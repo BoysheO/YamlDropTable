@@ -137,7 +137,7 @@ groups:
     - weight: 0
       drop__: 金币
       count_: 1
-  任务道具池：null
+  任务道具池:null
 ```
 抽奖一次时：
 1. `装备池` 抽出一个结果；
